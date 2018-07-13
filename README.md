@@ -16,8 +16,8 @@ This sprint is the 2nd opportunity in SciPy history to practice :
 ### To know more about MicroPython
 
 First look at :
-- the [**"Scientific MicroPython on Microcontrollers and IoT" talk**](http://www.robertocolistete.net/MicroPythonSciPy2017/#/) given on July 13th 2017, where MicroPython where presented and all official MicroPython boards where cited;
-- 
+- the [**"Scientific MicroPython on Microcontrollers and IoT" talk**](http://www.robertocolistete.net/MicroPythonSciPy2017/#/) given on July 13th 2017, where MicroPython were presented and all official MicroPython boards where cited;
+- the [**"Scientific MicroPython on Microcontrollers tutorial"**](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018) given on July 10th 2018, focused on LoPy4 + sensors. Recommeded 1st part [1_Tutorial_Software_Instructions](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018/blob/master/1_Tutorial_Software_Instructions/Tutorial_setup_instructions.ipynb) for software setup instructions.
 
 Documentation about MicroPython :
 * [MicroPython documentation (for Pyboard)](http://docs.micropython.org/en/latest/pyboard/)
