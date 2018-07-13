@@ -17,7 +17,7 @@ This sprint is the 2nd opportunity in SciPy history to practice :
 
 First look at :
 - the [**"Scientific MicroPython on Microcontrollers and IoT" talk**](http://www.robertocolistete.net/MicroPythonSciPy2017/#/) given on July 13th 2017, where MicroPython were presented and all official MicroPython boards where cited;
-- the [**"Scientific MicroPython on Microcontrollers tutorial"**](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018) given on July 10th 2018, focused on LoPy4 + sensors. Recommeded 1st part [1_Tutorial_Software_Instructions](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018/blob/master/1_Tutorial_Software_Instructions/Tutorial_setup_instructions.ipynb) for software setup instructions.
+- the [**"Scientific MicroPython on Microcontrollers tutorial"**](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018) given on July 10th 2018, focused on LoPy4 + sensors. 
 
 Documentation about MicroPython :
 * [MicroPython documentation (for Pyboard)](http://docs.micropython.org/en/latest/pyboard/)
@@ -34,16 +34,19 @@ Some MicroPython forums :
 
 ### Using real MicroPython boards on MicroPython sprint
 
-What is need to use MicroPython boards ? Bring your computer and (if possible) a USB-microUSB cable (many will be available in the MicroPython sprint). On your computer, [install a terminal software (Putty, screen, etc) to connect to the MicroPython board using the USB-microUSB cable](http://docs.micropython.org/en/latest/pyboard/pyboard/tutorial/repl.html). 
+What is need to use MicroPython boards ?
+- bring your computer and (if possible) a USB-microUSB cable (many will be available in the MicroPython sprint);
+- follow [MicroPython Tutorial_Software_Instructions](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018/blob/master/1_Tutorial_Software_Instructions/Tutorial_setup_instructions.ipynb) for software setup instructions. At least a terminal software and one editor (Atom, etc); 
+
+### Available hardware
 
 The MicroPython sprint has the following microcontroller boards available :
 * 19 LoPy/LoPy4 (LoRa, Sigfox, WiFi, Bluetooth);
 * 2 LoPy (LoRa, WiFi, Bluetooth);
-* 1 WiPy 2 (WiFi, Bluetooth)
-* 2 Pyboards
-* 2 Pyboards
-* 10 ESP8266/WeMos D1 Mini (WiFi)
-* 3 BBC Micro:bit (Bluetooth)
-* 1 OpenMV CAM M7
+* 1 WiPy 2 (WiFi, Bluetooth);
+* 2 Pyboards;
+* 10 ESP8266/WeMos D1 Mini (WiFi);
+* 3 BBC Micro:bit (Bluetooth);
+* 1 OpenMV CAM M7 (buit-in camera).
 
-Also almost 100 sensors and actuators ae available like BME280 (pressure, humidity, temperature), MPU6050 (accelerometer, gyroscope), SI1145 (ultraviolet, visible and infrared light), etc, as well small displays.
+Also almost 100 sensors and actuators are available like BME280 (pressure, humidity, temperature), MPU6050 (accelerometer, gyroscope), SI1145 (ultraviolet, visible and infrared light), etc, as well small displays.
