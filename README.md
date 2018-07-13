@@ -26,11 +26,13 @@ Documentation about MicroPython :
 * [MicroPython documentation (for Pyboard)](http://docs.micropython.org/en/latest/pyboard/)
 * [MicroPython documentation (for ESP8266)](http://docs.micropython.org/en/latest/esp8266/)
 * [MicroPython documentation (for OpenMV CAM M4/M7)](http://docs.openmv.io/)
+* [Adafruit CircuitPython - MicroPython fork](https://circuitpython.readthedocs.io/en/latest/README.html)
 
 Some MicroPython forums :
 * [MicroPython forum (for Pyboard, WiPy 1, ESP8266, ESP32, BBC Micro:bit)](https://forum.micropython.org/)
 * [Pycom MicroPython forum (for WiPy 2, LoPy/LoPy, SiPy, GPy, FiPy boards)](https://forum.pycom.io/)
 * [OpenMV CAM MicroPython forum (for Open MV CAM M4/M7)](http://forums.openmv.io/)
+* [Adafruit CircuitPython and MicroPython forum](https://forums.adafruit.com/viewforum.php?f=60)
 
 ### Using real MicroPython boards on MicroPython sprint
 
@@ -38,6 +40,10 @@ What is need to use MicroPython boards ?
 - bring your computer and (if possible) a USB-microUSB cable (many will be available in the MicroPython sprint);
 - follow [MicroPython Tutorial_Software_Instructions](https://github.com/rcolistete/MicroPython_Tutorial_SciPy_2018/blob/master/1_Tutorial_Software_Instructions/Tutorial_setup_instructions.ipynb) for software setup instructions on LoPy4/LoPy/WiPy2;
  - follow the documentation above about your preferred MicroPython board to setup the software tools (Mu Editor for BBC Micro:bit, etc).
+ 
+Other multiplataform editors/IDE with MicroPython support :
+- [Pycharm](https://www.jetbrains.com/pycharm/) with [MicroPython plugin](https://blog.jetbrains.com/pycharm/2018/01/micropython-plugin-for-pycharm/) for BBC Micro:bit, ESP8266, Pyboard;
+- [uPyCraft IDE for ESP32, ESP8266, BBC Micro:bit](https://github.com/DFRobot/uPyCraft)
 
 ### Available hardware
 
