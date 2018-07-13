@@ -26,7 +26,7 @@ Documentation about MicroPython :
 * [MicroPython documentation (for Pyboard)](http://docs.micropython.org/en/latest/pyboard/)
 * [MicroPython documentation (for ESP8266)](http://docs.micropython.org/en/latest/esp8266/)
 * [MicroPython documentation (for OpenMV CAM M4/M7)](http://docs.openmv.io/)
-* [Adafruit CircuitPython - MicroPython fork (for Adafruit boards)](https://circuitpython.readthedocs.io/en/latest/README.html)
+* [CircuitPython documentation - MicroPython fork (for Adafruit boards)](https://circuitpython.readthedocs.io/en/latest/README.html)
 
 Some MicroPython forums :
 * [MicroPython forum (for Pyboard, WiPy 1, ESP8266, ESP32, BBC Micro:bit)](https://forum.micropython.org/)
@@ -44,6 +44,7 @@ What is need to use MicroPython boards ?
 Other multiplataform editors/IDE with MicroPython support :
 - [Pycharm](https://www.jetbrains.com/pycharm/) with [MicroPython plugin](https://blog.jetbrains.com/pycharm/2018/01/micropython-plugin-for-pycharm/) for BBC Micro:bit, ESP8266, Pyboard;
 - [uPyCraft IDE](https://github.com/DFRobot/uPyCraft) for ESP32, ESP8266, BBC Micro:bit
+
 ### Available hardware
 
 The MicroPython sprint has the following microcontroller boards available :
